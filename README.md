@@ -1,9 +1,9 @@
 # a23907229.github.io
 
-## 自我介紹
+# 自我介紹
 
 我是大學生
 
-## photo
+# photo
 
 ![圖片] (https://wiki.komica.org/images/thumb/f/f3/Img2468.jpg/500px-Img2468.jpg)
