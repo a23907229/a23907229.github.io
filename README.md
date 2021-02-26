@@ -6,4 +6,4 @@
 
 ## photo
 
-![ph] (https://wiki.komica.org/images/thumb/f/f3/Img2468.jpg/500px-Img2468.jpg)
+![圖片] (https://wiki.komica.org/images/thumb/f/f3/Img2468.jpg/500px-Img2468.jpg)
